@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2991f930-1c02-41da-88a3-b315a329775f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheLostTemple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/map01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/world01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_back_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_back_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_front_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_front_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/boy_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/Water_Middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/floor_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/floor_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/rockpileresized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lySrAK9x9iKjkP4Qbxmq004T4y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/marco/Documents/softwaredev/testlabb/TheLostTemple/res/tiles",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\Documents\softwaredev\testlabb\TheLostTemple\res\tiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\Documents\softwaredev\testlabb\TheLostTemple\res\maps" />
+      <recent name="C:\Users\marco\Documents\softwaredev\testlabb\TheLostTemple\res\tiles" />
+      <recent name="C:\Users\marco\Documents\softwaredev\testlabb\TheLostTemple\res\player" />
+      <recent name="C:\Users\marco\Documents\softwaredev\testlabb\TheLostTemple\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2991f930-1c02-41da-88a3-b315a329775f" name="Changes" comment="" />
+      <created>1726151021342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726151021342</updated>
+      <workItem from="1726151023117" duration="4689000" />
+      <workItem from="1726212836864" duration="7564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

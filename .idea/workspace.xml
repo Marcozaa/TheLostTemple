@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2991f930-1c02-41da-88a3-b315a329775f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheLostTemple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/map01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/world01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_back_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_back_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_front_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_front_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_left_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_left_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_right_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/boy_right_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Dungeon_WallsAndFloors-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/Water_Middle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/floor_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/floor_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/l2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/rockpileresized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="2991f930-1c02-41da-88a3-b315a329775f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +38,7 @@
     "last_opened_file_path": "C:/Users/marco/Documents/softwaredev/testlabb/TheLostTemple/res/tiles",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
@@ -99,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726151021342</updated>
       <workItem from="1726151023117" duration="4689000" />
-      <workItem from="1726212836864" duration="7564000" />
+      <workItem from="1726212836864" duration="7883000" />
     </task>
     <servers />
   </component>
